@@ -28,9 +28,7 @@ And if you want to define the quantity for 100 and 500 tests:
 
 # Pushswap visualizer 
 
-Useful tool to visualise your algorithm graphically. Program created by !(https://github.com/ailopez-o).
-
-[VISUALIZER REPO](https://github.com/ailopez-o/42Barcelona-PushSwap-ProChecker)
+Useful tool to visualise your algorithm graphically. Program created by [VISUALIZER REPO](https://github.com/ailopez-o/42Barcelona-PushSwap-ProChecker)
 
 If you want to run it, type the following command. The number represents the number of arguments push_swap will receive.
 
